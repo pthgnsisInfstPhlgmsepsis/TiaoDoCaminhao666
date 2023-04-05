@@ -1,5 +1,10 @@
-- 👋 Hi, I’m @TiaoDoCaminhao666
-- 🌱 I’m currently learning C, C++, Rust
+🏳️‍🌈
+- Learning all things CS
+- Fav langs:
+    - Rust
+    - C
+    - Python
+- INTP
 
 <!---
 TiaoDoCaminhao666/TiaoDoCaminhao666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
