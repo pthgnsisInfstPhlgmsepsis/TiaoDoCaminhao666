@@ -1,10 +1,12 @@
 🏳️‍🌈
-- Learning all things CS
+- Learning all things
 - Fav langs:
     - Rust
     - C
     - Python
-- INTP
+    - Haskell
+    - Clojure
+- INFP
 
 <!---
 TiaoDoCaminhao666/TiaoDoCaminhao666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
